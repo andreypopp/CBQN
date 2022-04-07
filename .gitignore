@@ -5,3 +5,5 @@ perf.*
 /src/singeli/gen
 /Singeli
 CBQNHeapDump
+/BQN.js
+/BQN.wasm
